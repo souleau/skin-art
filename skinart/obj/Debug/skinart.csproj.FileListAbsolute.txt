@@ -1,0 +1,13 @@
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\bin\Debug\skinart.exe.config
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\bin\Debug\skinart.exe
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\bin\Debug\skinart.pdb
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.csproj.AssemblyReference.cache
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.Properties.Resources.resources
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.csproj.GenerateResource.cache
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.csproj.CoreCompileInputs.cache
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.exe
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.pdb
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.csproj.Up2Date
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.SkinArt.resources
+C:\Users\soul\Desktop\skinart tool\skinart\skinart\obj\Debug\skinart.csproj.Fody.CopyLocal.cache
